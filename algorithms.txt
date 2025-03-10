@@ -1,0 +1,52 @@
+Problem 1: Calculate the Sum of Natural Numbers
+
+START
+Take an input n
+Initialize a variable sum_n with 0
+Start a for loop with loop variable 'i' from 1 to n
+Set sum_n = sum_n + i
+[End loop]
+Display sum_n
+END
+
+
+Problem 2: Check for Prime Number
+
+START
+Take input and store it in n
+Start a for loop with variable 'i' from 2 to n//2
+Divide n by 'i'
+	If it's divisible, display "not a prime no."; exit the loop
+	If it's not divisible, display "prime no."
+END
+
+
+Problem 3: Find the Maximum of Three Numbers
+
+START
+Take three number inputs and store them in a, b, c
+If a > b and a > c: Display "a is max"
+Else if b > a and b > c: Display "b is max"
+Else: Display "c is max"
+END
+
+
+Problem 4: Factorial Calculation
+
+Take an input n
+Initialize a variable fact_n with 1
+Start a for loop with loop variable 'i' from 1 to n
+Set fact_n = fact_n * i
+[End loop]
+Display fact_n
+END
+
+
+Problem 5: Check if a Number is Even or Odd
+
+START
+Take input and store it in n
+Divide n by 2
+	If it's divisible, display "even"
+	If it's not divisible, display "odd"
+END
