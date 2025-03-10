@@ -18,6 +18,7 @@ Start a for loop with variable 'i' from 2 to n//2
 Divide n by 'i'
 	If it's divisible, display "not a prime no."; exit the loop
 	If it's not divisible, display "prime no."
+[End loop]
 END
 
 
